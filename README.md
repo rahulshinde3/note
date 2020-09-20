@@ -1,7 +1,4 @@
 # A Note A Day :sparkles::sparkles:
-Leave a special note that your loved one can read everyday.
-
-A small project I made for my girlfriend for our long distance relationship.
 
 
 :star: The idea is to write a special personalised note for your loved one everyday.<br>
